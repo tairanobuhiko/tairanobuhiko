@@ -5,7 +5,7 @@
 [![](https://komarev.com/ghpvc/?username=no215tyler&style=flat)](https://github.com/antonkomarev/github-profile-views-counter)
 
 ## Skill
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=ruby,rails,js,html,css,vscode,git,github,notion" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=ruby,rails,js,html,css,tailwind,vscode,git,github,notion" />
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=no215tyler&theme=vue)
 
