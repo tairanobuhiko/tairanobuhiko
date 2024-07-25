@@ -21,6 +21,11 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=no215tyler&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
+### Zenn Badges
+[![Likes](https://badgen.org/img/zenn/no215/likes?style=plastic)](https://zenn.dev/no215)
+[![Articles](https://badgen.org/img/zenn/no215/articles?style=plastic)](https://zenn.dev/no215)
+[![Scraps](https://badgen.org/img/zenn/no215/scraps?style=plastic)](https://zenn.dev/no215?tab=scraps)
+
 <!--
 **no215tyler/no215tyler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
