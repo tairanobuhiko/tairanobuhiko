@@ -5,10 +5,7 @@
 [![](https://komarev.com/ghpvc/?username=no215tyler&style=flat)](https://github.com/antonkomarev/github-profile-views-counter)
 
 ## Skill Stack
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=ruby,rails,js,ts,jquery,html,css,tailwind,linux,mysql" />
-
-## Learning Skill
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=react,next" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=ruby,rails,js,ts,react,next,jquery,html,css,tailwind,linux,mysql,vite,vercel" />
 
 ## Available Tools
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=git,github,vscode,discord,notion,figma,apple" />
