@@ -10,11 +10,11 @@
 ## Available Tools
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=git,github,vscode,discord,notion,figma,apple,windows" />
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tairanobuhiko&theme=moltack)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tairanobuhiko&theme=dark)
 
-![](https://github-readme-stats.vercel.app/api?username=tairanobuhiko&count_private=true&show_icons=true&theme=moltack)
+![](https://github-readme-stats.vercel.app/api?username=tairanobuhiko&count_private=true&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tairanobuhiko&theme=moltack&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tairanobuhiko&theme=dark&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=tairanobuhiko&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -22,6 +22,9 @@
 [![Likes](https://badgen.org/img/zenn/no215/likes?style=plastic)](https://zenn.dev/no215)
 [![Articles](https://badgen.org/img/zenn/no215/articles?style=plastic)](https://zenn.dev/no215)
 [![Scraps](https://badgen.org/img/zenn/no215/scraps?style=plastic)](https://zenn.dev/no215?tab=scraps)
+
+### Work Activity
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kms-no215&theme=chartreuse_dark)
 
 <!--
 **tairanobuhiko/tairanobuhiko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
