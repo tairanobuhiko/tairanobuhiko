@@ -14,9 +14,6 @@
 
 ## 🚀 About Me
 
-> Passionate developer crafting elegant solutions with modern technologies.  
-> Building scalable web applications and exploring the latest in software development.
-
 ```typescript
 const nobuhikoTaira = {
     location: "🗾 Japan",
