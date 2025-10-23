@@ -116,7 +116,7 @@ const nobuhikoTaira = {
 
 ## 💼 Professional Activity
 
-<details>
+<details open>
 <summary><b>🏢 Work Account Activity</b></summary>
 <br>
 
